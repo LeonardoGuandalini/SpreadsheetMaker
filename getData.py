@@ -3,7 +3,7 @@
 # https://finance.yahoo.com/quote/EGIE3.SA?p=EGIE3.SA&.tsrc=fin-srch
 # To search for a specific stock, use this template: https://finance.yahoo.com/quote/$stockname.SA?p=$stockname.SA&.tsrc=fin-srch
 # Financial data: https://finance.yahoo.com/quote/HGRE11.SA/financials?p=HGRE11.SA
-
+###### INSTALAR (com pip): openpyxl, xlrd, lxml #####################
 import bs4
 import requests
 import pandas as pd
